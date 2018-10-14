@@ -190,9 +190,9 @@ void main(void)
                 P6OUT=~5;
             }else if(if_6){
                 P6OUT=~6;
-            }else if(if_7){
+            }/*else if(if_7){
                 P6OUT=~7;
-            }else if(if_8){
+            }*/else if(if_8){
                 P6OUT=~8;
             }else if(if_9){
                 P6OUT=~9;
